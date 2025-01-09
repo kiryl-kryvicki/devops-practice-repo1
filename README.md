@@ -1,2 +1,2 @@
 # devops-practice-repo1
-Prkatiniam užduočiū
+Praktiniam užduočiū
